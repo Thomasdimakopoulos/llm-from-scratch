@@ -22,5 +22,4 @@ loss_log.json
 
 # Data (scratchpad data is ignored, top-level data/ is committed)
 scratchpad/data/
-config.bat
 node_modules
